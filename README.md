@@ -10,3 +10,6 @@
 - TypeScirpt 5.2.2
 - windows 11
 
+
+## 진행과정
+- 우선 https://angular.kr/tutorial/first-app 에서 세팅파일을 내려받아 본 레파지토리에 추가하였다. 
