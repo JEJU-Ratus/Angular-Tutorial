@@ -16,3 +16,6 @@
 
 - 위 과정에서는 inline template 형식으로 진행하지만 본인은 template URL을 이용해 template을 연결하여 진행하였다.
 - 위 과정은 Angular의 사용법을 이해하기 위한 과정이기 때문에, 웹 접근성을 따로 지키지는 않는다.
+
+## 문제 발생 및 해결
+- [여러 작업 단위를 뭉뚱그려 commit 해 push해버린 상황 - Angular와는 관계 없는 git 작업 문제](https://blog.naver.com/smh1141/223278235809)
