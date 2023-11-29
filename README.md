@@ -15,3 +15,4 @@
 - 우선 https://angular.kr/tutorial/first-app 에서 세팅파일을 내려받아 본 레파지토리에 추가하였다. 
 
 - 위 과정에서는 inline template 형식으로 진행하지만 본인은 template URL을 이용해 template을 연결하여 진행하였다.
+- 위 과정은 Angular의 사용법을 이해하기 위한 과정이기 때문에, 웹 접근성을 따로 지키지는 않는다.
